@@ -1,1 +1,1 @@
-# PythonTrainingEdube-Essentails2-Module2-Labs-Lab1
+# Python Labs from Edube. Starting from Python Essentials 2, Module 2 Labs.
