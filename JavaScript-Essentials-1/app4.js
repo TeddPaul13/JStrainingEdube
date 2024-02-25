@@ -46,6 +46,4 @@ let contacts = [{
     
     let checkFirstUser = contacts[0]
 
-    if (!checkFirstUser){
-        confirm("Check last user")
-    }
+    
